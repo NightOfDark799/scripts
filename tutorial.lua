@@ -1,6 +1,6 @@
 -- roblox make your own r15 scripts tutorial!!!
 -- made by luastun!!
--- video link: https://youtu.be/dvIm08-rE0s
+-- video link: https://youtu.be/RP_Ot5nMHco
 
 local lp = game.Players.LocalPlayer
 local hum = lp.Character.Humanoid
